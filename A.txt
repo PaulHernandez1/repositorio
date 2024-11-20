@@ -1,1 +1,76 @@
-Hola Repositorio
+    1  pwd
+    2  cd Desktop
+    3  ls
+    4  mkdir repositorio
+    5  cd repositorio
+    6  code .
+    7  ls
+    8  touch A.txt
+    9  echo "Hola Repositorio " > A.txt
+   10  cat A.txt
+   11  git init
+   12  git add A.txt
+   13  git status
+   14  git commit - "First commit"
+   15  git commit - m "First commit"
+   16  git config --global user.email "iavila24@uabc.edu.mx
+   17  git branch - M main
+   18  git branch -M main
+   19  git remote add origin https://github.com/PaulHernandez1/repositorio.git
+   20  git push -u origin main
+   21  pwd
+   22  cd Desktop
+   23  ls
+   24  ls - 1
+   25  ls -1
+   26  cd repositorio
+   27  ls
+   28  git init
+   29  ls
+   30  ls -al
+   31  git status
+   32  git restore A.txt
+   33  git status
+   34  where bash
+   35  git add.vscode/
+   36  git add vscode
+   37  git add .vscode
+   38  git restore A.txt
+   39  git status
+   40  pwd
+   41  cd Desktop
+   42  ls
+   43  ls -1
+   44  cd repositorio
+   45  code .
+   46  touch A.txt
+   47  echo "Hola Repositorio" > A.txt
+   48  cat A.txt
+   49  git init
+   50  git add A.txt
+   51  git status
+   52  git restore A.txt
+   53  git status
+   54  git add/rm .vscode -r
+   55  git status
+   56  git add A.txt
+   57  git status
+   58  git commit -m "First commit"
+   59  git config --global user.email "irving.hernandez51@uabc.edu.mx"
+   60  git branch -M main
+   61  git remote add origin https://github.com/PaulHernandez1/repositorio.git
+   62  git push -u origin main
+   63  git log
+   64  git config --global user.email "irving.hernandez51@uabc.edu.mx"
+   65  git config --global user.name "Irving Paul"
+   66  git commit -m "first commit"
+   67  git log
+   68  git status
+   69  git rm ,vscode -r
+   70  git status
+   71  git branch -M main
+   72  git remote add origin https://github.com/PaulHernandez1/repositorio.git
+   73  git push -u origin main
+   74  history
+   75  pwd
+   76  history > A.txt
